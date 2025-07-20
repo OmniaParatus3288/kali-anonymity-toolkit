@@ -1,7 +1,4 @@
 # 🕵️ Kali Anonymity Toolkit
-**Repo rename:** `kali-anonymity-toolkit`  
-**About me:** *I chase stealth over style—building, breaking, and disappearing into the packet stream so the blue team never sees me coming.*
-
 ---
 
 ## ✨ Why this repo exists
